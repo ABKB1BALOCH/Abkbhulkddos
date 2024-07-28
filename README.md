@@ -15,5 +15,5 @@ now post these command
 copy past repository in termux 
 now after complete installed repository 
 $cd abkbhulkddos
-$python3 abkbhulkddos.py or
-$python abkbhulkddos.py
+python abkbhulkddos.py
+
